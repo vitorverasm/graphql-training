@@ -1,0 +1,16 @@
+{
+  "name": "graphql-training",
+  "version": "1.0.0",
+  "description": "Simple GraphQL api",
+  "main": "index.js",
+  "repository": "https://github.com/vitorverasm/graphql-training.git",
+  "author": "Vitor Veras <vitorverasm@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  }
+}
